@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DbzQuiz</string>
+    <string name="start_name">Commencer</string>
+    <string name="restart_name">Recommencer</string>
+</resources>
